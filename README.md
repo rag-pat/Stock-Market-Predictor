@@ -1,3 +1,5 @@
+STOCK MARKET PREDICTOR AND VISUALIZER
+
 This project is a comprehensive web application that predicts stock prices using machine learning
 and visualizes them through an interactive UI. It leverages a FastAPI backend to fetch and process
 stock data from Alpha Vantage, and a frontend built with HTML, CSS, and JavaScript to visualize
